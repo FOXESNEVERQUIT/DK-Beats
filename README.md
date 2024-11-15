@@ -3,7 +3,9 @@ Real-time Sound Responsive Media Art using Processing3
 
 # How does it works?
 - When music files & images are placed in the /data folder, the waveform & image size change depending on the volume of the sound source.
+
 https://github.com/user-attachments/assets/7cde1904-2aa4-46b3-a3e9-714362ce8203
+
 - A very basic level of Media art.
 
 # Quantitative information
